@@ -15,7 +15,7 @@ Program: GoScrap | Web-Scraper
 Current version: 1.0
 Languages: Golang 1.23.5
 Tested on: Linux 6.11.2 
-Author: ghostface-engineer
+Author: scarlet-oni
 Dependencies: colly
 
 _______________________________________________________________________
