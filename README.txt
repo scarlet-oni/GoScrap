@@ -45,7 +45,7 @@ _________________________________________________________________________
 By downloading, modifying, redistributing, and/or executing GoScrap, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
-I, ghostface-engineer, the creator, take no legal responsibility for unlawful actions
+I, scarlet-oni, the creator, take no legal responsibility for unlawful actions
 caused/stemming from this program. 
 
 Use responsibly and ethically!
